@@ -8,5 +8,5 @@ Frdb is a simple food review database.
 Project contains:
 
 1. lambda functions
-2. scripts to setup dynamodb table
+2. scripts to setup dynamodb tables
 3. layers for lambda functions

@@ -1,0 +1,5 @@
+.DS_Store
+lambdas/frdbAddRestaurantReview/node_modules
+lambdas/frdbLogInSignup/node_modules
+layers/frdb_jwt/nodejs/node_modules
+layers/frdbGetLoginUser/nodejs/node_modules
